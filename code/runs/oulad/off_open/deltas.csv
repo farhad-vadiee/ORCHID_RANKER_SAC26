@@ -1,0 +1,4 @@
+baseline,paired_delta_accuracy,paired_delta_accept_rate,paired_n
+linucb,0.44125,0.07762499999999997,16
+als,0.05375000000000002,-0.06412500000000003,16
+fixed,0.3875,0.07137499999999998,16

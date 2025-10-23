@@ -1,0 +1,23 @@
+# Core PyTorch stack
+torch
+torchvision
+torchaudio
+
+# Secure RNG + Differential Privacy
+#torchcsprng
+opacus
+
+# Data science stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Configs + utilities
+pyyaml
+tqdm
+
+# Optional (recommended for experiments)
+jupyter
+notebook
